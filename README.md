@@ -1,2 +1,2 @@
-# m-goodies
-M-Script plugins: tasks and monitors
+# m-roles
+M-Script plugins: tasks and roles
